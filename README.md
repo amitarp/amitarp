@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Data science and Analytics**
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **amitarp818@gmail.com**
